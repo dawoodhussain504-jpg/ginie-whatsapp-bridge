@@ -10,6 +10,7 @@
     "@whiskeysockets/baileys": "^6.7.18",
     "cors": "^2.8.5",
     "express": "^4.19.2",
+    "pg": "^8.23.1",
     "pino": "^9.2.0",
     "qrcode": "^1.5.3"
   }
